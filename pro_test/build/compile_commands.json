@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/project/pro_test/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/HelloWorld.dir/HelloWorld.cpp.o -c /project/pro_test/HelloWorld.cpp",
+  "file": "/project/pro_test/HelloWorld.cpp"
+}
+]
